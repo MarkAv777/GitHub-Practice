@@ -8,5 +8,8 @@ public class Hello20 {
         // i love java
 
         System.out.println("Test 2");
+        
+        System.out.println("Test 3");
+        System.out.println("Test 4");
     }
 }
