@@ -6,5 +6,7 @@ public class Hello20 {
         
         // hello b20
         // i love java
+
+        System.out.println("Test 2");
     }
 }
